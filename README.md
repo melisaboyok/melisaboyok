@@ -2,10 +2,10 @@
 ### <div align="center">I am a passionate student in the world of software and constantly strive to improve myself through hard work and dedication👩‍💻</div>  
   
 
-- 🔭 I’m currently working on React Projects  
+- 🔭 I’m currently working on HTML, CSS, Bootstrap, JavaScript Projects  
   
 
-- 🌱 I’m currently learning Node.js and Flutter  
+- 🌱 I’m currently learning Node.js and React 
   
 
 <br/>  
